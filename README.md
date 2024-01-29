@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Horpeyemi007
+- 👋 Hi, I’m Opeyemi Alabi
 - 👀 I’m interested in DevOps | Cloud Computing
 - 🌱 I’m currently learning CICD automation on cloud resources
 - 💞️ I’m looking to collaborate on DevOps Project
