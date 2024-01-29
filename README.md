@@ -1,4 +1,11 @@
-- 👋 Hi, I’m Opeyemi Alabi
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDI3eGpzaWJuaWl5ZjNmZjJtd3hseno1OWFsMThpaW1nYmlranpxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" width="200"/>
+</div>
+<br>
+<h3>About Me</h3>
+<h3>👨 Hi, I’m Opeyemi Alabi and I'm a Cloud DevOps Engineer </h3>
+<hr>
+
 - 👀 I’m interested in DevOps | Cloud Computing
 - 🌱 I’m currently learning CICD automation on cloud resources
 - 💞️ I’m looking to collaborate on DevOps Project
