@@ -6,7 +6,7 @@
 <h3>👨 Hi, I’m Opeyemi Alabi and I'm a Cloud DevOps Engineer </h3>
 <hr>
 
-- 👀 I’m interested in DevOps | Cloud Computing
+- 👀 I’m interested in Cloud Computing | DevOps
 - 🌱 I’m currently learning CICD automation on cloud resources
 - 💞️ I’m looking to collaborate on DevOps Project
 - 📫 How to reach me ... Email @ Opeyemi5055@yahoo.com
