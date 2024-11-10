@@ -6,7 +6,7 @@
 
 ## ABOUT ME
 
-<h3>👨 Hi, I’m Opeyemi Alabi and I'm a Junior Cloud DevOps Engineer </h3>
+<h3>👨 Hi, I’m Opeyemi Alabi and I'm a Cloud DevOps Engineer </h3>
 <hr>
 
 - 🌱 I love learning and am always looking for a way to improve my skills and grow as a professional.
