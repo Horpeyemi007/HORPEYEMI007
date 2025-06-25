@@ -6,13 +6,15 @@
 
 ## ABOUT ME
 
-<h3>👨 Hi, I’m Opeyemi Alabi and I'm a Cloud DevOps Engineer </h3>
+<h3>👨 Hi, I’m Opeyemi Alabi and I'm a Software Engineer </h3>
 <hr>
+I am a Junior Software Developer with hands-on experience in both frontend and backend development. I have worked on building dynamic, scalable applications using technologies such as React, Vue.js, Node.js, Java, and Go (Golang).
+<hr />
+Additionally, I have explored cloud computing and possess DevOps skills, including containerization with Docker and Kubernetes, as well as setting up CI/CD pipelines with automation tools like Ansible, Terraform etc.
+<hr />
 
 - 🌱 I love learning and am always looking for a way to improve my skills and grow as a professional.
-- 💪i have knowledge of cloud computing, scripting and also work with CICD DevOps tools like Jenkins, Ansible, Terraform, GitOps, Docker etc.
-- 💡I specialize in using AWS resources for my cloud based solutions by working with resources like - EC2, ESC, ECR, LOAD-BALANCING, CLOUDWATCH, RDS, CODE-PIPELINE, CLOUD FORMATION, IAM and Lots more..
-- 🎯I also have a solid understanding of software engineering as i love coding as a backend engineer and i can work with languages like Python, NodeJS, and Java.
+
 - 📫 How to reach me ... Email @ Opeyemi5055@yahoo.com
 
 <!---
